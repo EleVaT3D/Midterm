@@ -1,0 +1,88 @@
+.d-flex-center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.mountain-bg{
+	background-image: url('../Images/header.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+	height: 900px;
+}
+.firstheader{
+	display: flex;
+	justify-content: space-between;
+}
+.navigation-ul{
+	display: flex;
+	margin-right: 143px;
+}
+.Landings{
+	color: white;
+	font-size: 28px;
+	margin-top: 69px;
+	margin-left: 68px;	
+}
+.navigation-li{
+	color: white;
+	margin-left: 32px;
+	font-size: 12px;
+	margin-top: 69px;
+	margin-left: 32px;	
+}
+.Firstcenterbig{
+	font-size: 100px;
+	color: #fff;
+	display: flex;
+	margin-top: 200px;
+}
+.Firstcentersmall{
+	font-size: 18px;
+	color: #fff;
+	display: flex;
+	padding: 32px;
+}
+.button1{
+/*	margin-top: 54px;*/
+}
+.button2{
+	margin-top: 54px;
+	background-color: #325DFF;
+	color: #fff;
+	font-size: 14px;
+	border: none;
+	border-radius: 30px;
+	padding: 20px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-weight: bold;
+}
+/*Section 2*/
+.section2-flex{
+	display: flex;
+	justify-content: space-between;
+}
+.LeftBlock2{
+	width: 50%;
+	padding: 102px;
+}
+.LeftBlock2p1{
+	font-size: 50px;
+	text-align: left;
+}
+.LeftBlock2p2{
+	margin-top: 50px;
+	font-size: 16px;
+	text-align: left;
+	margin-top: 100px;
+}
+
+
+.RightBlock2{
+	width: 50%;
+}
+.RightBlock2 img{
+	width: 100%;
+}
