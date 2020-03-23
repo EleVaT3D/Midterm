@@ -66,6 +66,8 @@
 }
 .LeftBlock2{
 	width: 50%;
+
+/*	width: 640px;*/
 	padding: 102px;
 }
 .LeftBlock2p1{
@@ -78,11 +80,168 @@
 	text-align: left;
 	margin-top: 100px;
 }
-
+.buttonleft{
+	margin-top: 54px;
+	background-color: #325DFF;
+	color: #fff;
+	font-size: 14px;
+	border: none;
+	border-radius: 30px;
+	padding: 20px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-weight: bold;
+	float: left;
+}
 
 .RightBlock2{
 	width: 50%;
+/*	width: 640px;*/
 }
 .RightBlock2 img{
 	width: 100%;
+}
+/*Section 6 Icons*/
+.SixIconsSection{
+	background-color: #FAFAFA;
+	padding:90px;
+/*	width: 1171px;*/
+}
+.HeaderSixIconsSection{
+	text-align: center;
+	font-size: 35px;
+}
+.HeaderSixIconsSectionP{
+	text-align: center;
+	font-size: 16px;
+/*	width: 771px;*/
+	margin-top: 50px
+}
+.boxes1{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.smallbox{
+	margin-top: 25px;
+	background-color: white;
+	width: 369px;
+	height: 372px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.icon{
+	background-color: blue;
+	border-radius: 50%;
+	padding: 30px;
+	margin-bottom: 30px;
+}
+.smallbox h5 {
+	font-size: 18px;
+}
+.smallbox p {
+	font-size: 16px;
+	text-align: center;
+}
+.HeaderSixIconsSectionP{
+	margin-bottom: 94px;
+}
+/*Section3Sea*/
+
+
+.Section3Sea{
+	background-image: url('../Images/sea.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+	height: 601px;
+/*	display: flex;
+	justify-content: center;
+	align-items: center;*/
+	color: white;
+}
+.Section3H{
+	padding-top: 360px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 35px;
+
+}
+.Section3P{
+	padding-top: 35px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+/*Section 4*/
+
+.FeaturedProjects{
+	width: 100%;
+	height: 387px;
+	background-color: #FAFAFA;
+}
+.Section4H{
+	text-align: center;
+	font-size: 35px;
+	margin-top: 95px;
+	margin-bottom: 30px;
+}
+.Section4P{
+	text-align: center;
+	font-size: 16px;	
+	margin-bottom: 95px;
+}
+
+/*FLOWER REVERSE BLOCKS*/
+.RightBlockFlower{
+	width: 50%;
+	padding: 102px;
+}
+.RightBlockFlowerP1{
+	font-size: 50px;
+	text-align: left;
+}
+.RightBlockFlowerP2{
+	margin-top: 50px;
+	font-size: 16px;
+	text-align: left;
+	margin-top: 100px;
+}
+.buttonflower{
+	margin-top: 54px;
+	background-color: #325DFF;
+	color: #fff;
+	font-size: 14px;
+	border: none;
+	border-radius: 30px;
+	padding: 20px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-weight: bold;
+	float: right;
+}
+
+.LeftBlockFlower{
+	width: 50%;
+}
+.LeftBlockFlower img{
+	width: 100%;
+}
+/*Footer Section*/
+
+
+.FooterSection{
+	width: 100%;
+	height: 140px;
+	background-color: #325DFF;
+	text-align: center;
+	color: white;
+}
+.FooterSection p {
+	padding-top: 64px;
 }
