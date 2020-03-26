@@ -82,62 +82,62 @@
 }
 
 /*SixIconsSection*/
-@media (max-width: 768px) {
+@media (max-width: 480px) {
 	.SixIconsSection {
-		padding: 45px;
+		padding: 22.5px;
 	}
-}@media (max-width: 768px) {
+}@media (max-width: 480px) {
 	.HeaderSixIconsSection {
-		font-size: 17px;
+		font-size: 8.5px;
 	}
-}@media (max-width: 768px) {
+}@media (max-width: 480px) {
 	.HeaderSixIconsSectionP {
-		font-size: 8px;
-		margin-top: 25px
-		margin-bottom: 47px;
+		font-size: 4px;
+		margin-top: 12.5px
+		margin-bottom: 23.5px;
 	}
 }
-@media (max-width: 768px) {
+@media (max-width: 480px) {
 	.smallbox {
-	margin-top: 12.5px;
+	margin-top: 6.25px;
 	background-color: white;
-	width: 184.5px;
-	height: 186px;
+	width: 92.25px;
+	height: 93px;
 	}
 }
-@media (max-width: 768px) {
+@media (max-width: 480px) {
 	.icon {
-		padding: 15px;
-		margin-bottom: 15px;
+		padding: 7.5px;
+		margin-bottom: 7.5px;
 	}
 }
-@media (max-width: 768px) {
+@media (max-width: 480px) {
 	.smallbox h5 {
-		font-size: 9px;
+		font-size: 4.5px;
 	}
 }
-@media (max-width: 768px) {
+@media (max-width: 480px) {
 	.smallbox p {
-		font-size: 8px;
+		font-size: 4px;
 }
 
 /*Section3Sea*/
 
-@media (max-width: 768px) {
+@media (max-width: 480px) {
 	.Section3Sea {
-		height: 300.5px;
+		height: 150.25px;
 	}
 }
-@media (max-width: 768px) {
+@media (max-width: 480px) {
 	.Section3H {
-		padding-top: 180px;
-		font-size: 17.5px;
+		padding-top: 90px;
+		font-size: 8.75px;
 	}
 }
-@media (max-width: 768px) {
+@media (max-width: 480px) {
 	.Section3P {
-		padding: 17.5px 100px;
-		font-size: 9px;
+		padding: 8.75px 50px;
+		font-size: 3.5px;
 	}
 }
 
@@ -145,24 +145,24 @@
 
 /*Section 4*/
 
-@media (max-width: 768px) {
+@media (max-width: 480px) {
 	.FeaturedProjects {
-	height: 125px;
+	height: 62.5px;
 	}
 }
-@media (max-width: 768px) {
+@media (max-width: 480px) {
 	.Section4H {
-		font-size: 17.5px;
-		margin-top: 47.5px;
-		margin-bottom: 15px;
+		font-size: 8.75px;
+		margin-top: 23.75px;
+		margin-bottom: 7.5px;
 	}
 }
-@media (max-width: 768px) {
+@media (max-width: 480px) {
 	.Section4P {
-		font-size: 8px;
-		padding-right: 75px;
-		padding-left: 75px;	
-		margin-bottom: 47.5px;
+		font-size: 4px;
+		padding-right: 37.5px;
+		padding-left: 37.5px;	
+		margin-bottom: 23.75px;
 	}
 }
 
@@ -173,47 +173,47 @@
 
 
 
-@media (max-width: 768px) {
+@media (max-width: 480px) {
 	.RightBlockFlower {
-		padding: 51px;
+		padding: 25.5px;
 	}
 }
-@media (max-width: 768px) {
+@media (max-width: 480px) {
 	.RightBlockFlowerP1 {
-		font-size: 25px;
+		font-size: 12.5px;
 	}
 }
-@media (max-width: 768px) {
+@media (max-width: 480px) {
 	.RightBlockFlowerP2 {
+		margin-top: 12.5px;
+		font-size: 4px;
 		margin-top: 25px;
-		font-size: 8px;
-		margin-top: 50px;
 	}
 }
-@media (max-width: 768px) {
+@media (max-width: 480px) {
 	.buttonflower {
-		margin-top: 27px;
-		padding: 10px;
-		font-size: 7px;
-		letter-spacing: 1px;
+		margin-top: 13.5px;
+		padding: 5px;
+		font-size: 3.5px;
+		letter-spacing: 0.5px;
 	}
 }
 
-@media (max-width: 768px) {
+@media (max-width: 480px) {
 	.LeftBlockFlower {
 		width: 50%;
 	}
 }
 
 /*FOOTER*/
-@media (max-width: 768px) {
+@media (max-width: 480px) {
 	.FooterSection {
-		height: 70px;
+		height: 35px;
 	}
 }
-@media (max-width: 768px) {
+@media (max-width: 480px) {
 	.FooterSection p {
-		padding-top: 32px;
+		padding-top: 16px;
 	}
 }
 
