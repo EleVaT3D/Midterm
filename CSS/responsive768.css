@@ -1,0 +1,219 @@
+/*FIRST PAGE*/
+
+@media (max-width: 768px) {
+	.mountain-bg {
+		height: 450px;
+	}
+}
+@media (max-width: 768px) {
+	.navigation-ul {
+		margin-right: 71px;
+	}
+}
+@media (max-width: 768px) {
+	.Landings {
+		font-size: 14px;
+		margin-top: 34px;
+		margin-left: 34px;
+	}
+}
+@media (max-width: 768px) {
+	.navigation-li {
+	margin-left: 16px;
+	font-size: 6px;
+	margin-top: 34px;
+	}
+}
+@media (max-width: 768px) {
+	.Firstcenterbig {
+	font-size: 50px;
+	margin-top: 100px;;
+	}
+}
+@media (max-width: 768px) {
+	.Firstcentersmall {
+		font-size: 9px;
+		padding: 32px;
+	}
+}
+@media (max-width: 768px) {
+	.button2 {
+	font-family: 'Lato';
+	margin-top: 27px;
+	font-size: 7px;
+	padding: 10px;
+	letter-spacing: 1px;
+
+	}
+}
+
+
+
+/*SECTION 2*/
+
+@media (max-width: 768px) {
+	.LeftBlock2 {
+		padding: 50px;
+	}
+}
+@media (max-width: 768px) {
+	.LeftBlock2p1 {
+		font-size: 25px;
+	}
+}
+@media (max-width: 768px) {
+	.LeftBlock2p2 {
+		font-size: 8px;
+		margin-top: 50px;
+	}
+}
+@media (max-width: 768px) {
+	.RightBlock2 {
+		width: 50%;
+	}
+}
+@media (max-width: 768px) {
+	.buttonleft {
+		margin-top: 27px;
+		padding: 10px;
+		font-size: 7px;
+		letter-spacing: 1px;
+	}
+}
+
+/*SixIconsSection*/
+@media (max-width: 768px) {
+	.SixIconsSection {
+		padding: 45px;
+	}
+}@media (max-width: 768px) {
+	.HeaderSixIconsSection {
+		font-size: 17px;
+	}
+}@media (max-width: 768px) {
+	.HeaderSixIconsSectionP {
+		font-size: 8px;
+		margin-top: 25px
+		margin-bottom: 47px;
+	}
+}
+@media (max-width: 768px) {
+	.smallbox {
+	margin-top: 12.5px;
+	background-color: white;
+	width: 184.5px;
+	height: 186px;
+	}
+}
+@media (max-width: 768px) {
+	.icon {
+		padding: 15px;
+		margin-bottom: 15px;
+	}
+}
+@media (max-width: 768px) {
+	.smallbox h5 {
+		font-size: 9px;
+	}
+}
+@media (max-width: 768px) {
+	.smallbox p {
+		font-size: 8px;
+}
+
+/*Section3Sea*/
+
+@media (max-width: 768px) {
+	.Section3Sea {
+		height: 300.5px;
+	}
+}
+@media (max-width: 768px) {
+	.Section3H {
+		padding-top: 180px;
+		font-size: 17.5px;
+	}
+}
+@media (max-width: 768px) {
+	.Section3P {
+		padding: 17.5px 100px;
+		font-size: 9px;
+	}
+}
+
+
+
+/*Section 4*/
+
+@media (max-width: 768px) {
+	.FeaturedProjects {
+	height: 125px;
+	}
+}
+@media (max-width: 768px) {
+	.Section4H {
+		font-size: 17.5px;
+		margin-top: 47.5px;
+		margin-bottom: 15px;
+	}
+}
+@media (max-width: 768px) {
+	.Section4P {
+		font-size: 8px;
+		padding-right: 75px;
+		padding-left: 75px;	
+		margin-bottom: 47.5px;
+	}
+}
+
+
+
+
+
+
+
+
+@media (max-width: 768px) {
+	.RightBlockFlower {
+		padding: 51px;
+	}
+}
+@media (max-width: 768px) {
+	.RightBlockFlowerP1 {
+		font-size: 25px;
+	}
+}
+@media (max-width: 768px) {
+	.RightBlockFlowerP2 {
+		margin-top: 25px;
+		font-size: 8px;
+		margin-top: 50px;
+	}
+}
+@media (max-width: 768px) {
+	.buttonflower {
+		margin-top: 27px;
+		padding: 10px;
+		font-size: 7px;
+		letter-spacing: 1px;
+	}
+}
+
+@media (max-width: 768px) {
+	.LeftBlockFlower {
+		width: 50%;
+	}
+}
+
+/*FOOTER*/
+@media (max-width: 768px) {
+	.FooterSection {
+		height: 70px;
+	}
+}
+@media (max-width: 768px) {
+	.FooterSection p {
+		padding-top: 32px;
+	}
+}
+
